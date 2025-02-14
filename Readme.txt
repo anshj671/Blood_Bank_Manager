@@ -1,4 +1,4 @@
-How to run the Blood Bank & Donor Management System Using PHP and MySQL
+Blood Bank & Donor Management System Using PHP and MySQL
 
 1.Extract the file and copy bbdms folder
 
